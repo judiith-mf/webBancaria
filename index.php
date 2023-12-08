@@ -13,7 +13,7 @@
     </div>
     <div class="container__form">
          <h3>Introduzca sus datos bancarios</h3>
-         <form action="index.php" method="get">
+         <form action="index.php" method="post">
             <div class="campos">
                 <label >Número de cuenta</label>
                 <input type="text" name="numCuenta"/>
